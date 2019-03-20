@@ -1,0 +1,1 @@
+FROM katib/studyjob-controller
