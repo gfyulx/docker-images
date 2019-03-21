@@ -1,1 +1,1 @@
-FROM katib/studyjob-controller
+FROM katib/studyjob-controller:v0.3
