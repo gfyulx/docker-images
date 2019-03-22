@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/modeldb-backend:v0.2.0
+FROM gcr.io/kubeflow-images-public/modeldb-backend:latest
