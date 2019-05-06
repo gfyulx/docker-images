@@ -1,0 +1,1 @@
+FROM zhangguanzhang/k8s_bin:v1.13.5-full
