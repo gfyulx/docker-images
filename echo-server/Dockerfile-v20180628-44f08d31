@@ -1,1 +1,1 @@
-gcr.io/kubeflow-images-staging/echo-server:v20180628-44f08d31
+FROM gcr.io/kubeflow-images-staging/echo-server:v20180628-44f08d31
